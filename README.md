@@ -1,5 +1,9 @@
 # Revisiting Exploding Gradient: A Ghost That Never Leaves
 
+This is the official implementation for our  paper
+> [Revisiting Exploding Gradient: A Ghost That Never Leaves](https://www.andrew.cmu.edu/user/kaihu/HuK2021.pdf)
+> Kai Hu, Yushu Zheng, Jie Shao, Bhiksha Raj
+
 ## Abstract 
 The exploding gradient problem is one of the main barrier to training deep neural networks. 
 It is widely believed that this problem can be greatly solved by techniques such as careful weight initialization and normalization layers.  
