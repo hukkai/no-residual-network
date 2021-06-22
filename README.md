@@ -2,6 +2,7 @@
 
 This is the official implementation for our  paper
 > [Revisiting Exploding Gradient: A Ghost That Never Leaves](https://www.andrew.cmu.edu/user/kaihu/HuK2021.pdf)
+> 
 > Kai Hu, Yushu Zheng, Jie Shao, Bhiksha Raj
 
 ## Abstract 
