@@ -1,4 +1,4 @@
-# Offical codes for: Revisiting Exploding Gradient: A Ghost That Never Leaves
+# Revisiting Exploding Gradient: A Ghost That Never Leaves
 
 ## Abstract 
 The exploding gradient problem is one of the main barrier to training deep neural networks. 
