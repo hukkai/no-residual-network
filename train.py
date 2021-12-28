@@ -44,6 +44,10 @@ resume = False
 start_epoch = 0
 last_logs = [] # TODO
 checkpoint_path = args.trial_id + '/ckpt.t7'
+
+if local_rank == 0 and not os.path.exists(args.trial_id):
+    os.mkdir(args.trial_id)
+
 if os.path.exists(checkpoint_path):
     ckpt = torch.load(checkpoint_path, 'cpu')
     resume = True
