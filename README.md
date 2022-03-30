@@ -3,7 +3,7 @@
 This is the official implementation for our  paper
 > [Revisiting Exploding Gradient: A Ghost That Never Leaves](https://www.andrew.cmu.edu/user/kaihu/Revisiting_Exploding_Gradient.pdf)
 > 
-> Kai Hu, Jie Shao, Bhiksha Raj
+> Kai Hu
 
 ## Abstract 
 The exploding gradient problem is one of the main barrier to training deep neural networks. 
